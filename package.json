@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tensorflow-models/body-pix": "^2.2.0",
+    "@tensorflow/tfjs": "^3.14.0",
+    "require": "^2.4.20",
+    "require-dir": "^1.2.0"
+  }
+}
